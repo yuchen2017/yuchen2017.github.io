@@ -2,7 +2,22 @@ description: Projects in UC Davis
 
 theme: jekyll-theme-cayman
 
-webrick:
-  headers:
-    My-Header: Yuchen Li
+title : tigefa4u.Github
+tagline: love Github repositories
+author :
+  name : sugeng tigefa
+  email : tigefa@gmail.com
+  tumblr: tigefa
+  flickr: tigefa
+  github : tigefa4u
+  repository: tigefa4u.github.io
+  gittip: tigefa
+  twitter : tigefa_team
+  facebook: tigefa.team
+  feedburner : tigefa4ugithub
+  linkedin: tigefadotinfo
+  googleplus: tigefa
+  pinterest: tigefa
+  bitbucket: tigefa4u
+  stackoverflow: tigefa
     
