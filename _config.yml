@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:              Yuchen Li
 tagline:             'Home page'
-description:         'Yuchen Li's space in the Internet'
+description:         'Yuchen Li`s space in the Internet'
 url:                 http://yuchen2017.github.io
 baseurl:             /
 paginate:            3
